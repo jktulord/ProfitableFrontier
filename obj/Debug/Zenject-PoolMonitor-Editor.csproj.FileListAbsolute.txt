@@ -1,0 +1,2 @@
+D:\UnityProjects\Profitable Frontiers\obj\Debug\Zenject-PoolMonitor-Editor.csproj.AssemblyReference.cache
+D:\UnityProjects\Profitable Frontiers\obj\Debug\Zenject-PoolMonitor-Editor.csproj.CoreCompileInputs.cache

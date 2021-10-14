@@ -1,0 +1,2 @@
+D:\UnityProjects\Profitable Frontiers\obj\Debug\Zenject-ReflectionBaking-Editor.csproj.AssemblyReference.cache
+D:\UnityProjects\Profitable Frontiers\obj\Debug\Zenject-ReflectionBaking-Editor.csproj.CoreCompileInputs.cache
